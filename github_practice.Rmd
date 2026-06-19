@@ -3,4 +3,8 @@ title: "GitHub Practice"
 author: "Riley Jones"
 output: html_notebook
 ---
-
+```{r}
+list.files()
+list.files("data")
+```
+Memo: The first command shows files and folders in my project folder. The second command checks what is inside the data folder.
